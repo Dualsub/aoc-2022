@@ -1,2 +1,4 @@
-# aoc-2022
-Advent of coding 2022.
+<!-- With Advent emojis -->
+# Advent of code 2022🎅 
+
+Daily solutions for the [Advent of Code 2022](https://adventofcode.com/2022).
